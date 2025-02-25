@@ -1,7 +1,7 @@
 #Streamlit
 import streamlit as st
 
-st.set_page_config(page_title="growth mindset project", project_icon="★")
+st.set_page_config(page_title="growth mindset project", page_icon="★")
 st.title("Growth Mindset Challange: Web App With Streamlit")
 st.header("Welcome to Your Growth Journey!!")
 st.write("⭐ **Streamlit** is an **open-source Python framework** for quickly building **data science and machine learning applications** with minimal coding, without needing complex backend or frontend development. 🚀")
